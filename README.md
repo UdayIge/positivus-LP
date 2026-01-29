@@ -40,9 +40,9 @@
 
 ## Tech Stack
 
-- [React](https://react.dev/) 19
-- [Vite](https://vitejs.dev/) 6
-- [Tailwind CSS](https://tailwindcss.com/) 4
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [Swiper](https://swiperjs.com/) — Testimonials carousel
 - [React Icons](https://react-icons.github.io/react-icons/) — Icons
 
@@ -98,8 +98,11 @@ src/
 
 Distributed under the MIT License. See `LICENSE` for more info.
 
+
 ---
 
 <p align="center">
   Built by <a href="https://github.com/UdayIge">@UdayIge</a>
 </p>
+
+
