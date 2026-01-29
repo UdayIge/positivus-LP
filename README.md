@@ -4,7 +4,7 @@
   <p align="center">
     A modern, responsive landing page for <strong>Positivus</strong> — a digital marketing agency. Built with React and Tailwind CSS, featuring a dark theme with vibrant green accents.
     <br />
-    <a href="https://udayige.github.io/positivus/" target="_blank" ><strong>Live Demo »</strong></a>
+    <a href="https://udayige.github.io/Positivus/" target="_blank" ><strong>Live Demo »</strong></a>
     <br />
     <br />
     <a href="#features">Features</a>
