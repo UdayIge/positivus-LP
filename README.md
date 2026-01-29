@@ -17,12 +17,14 @@
     ·
     <a href="https://github.com/UdayIge/positivus/issues">Issues</a>
   </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react" alt="React">
+    <img src="https://img.shields.io/badge/Vite-6-646CFF?style=flat-square&logo=vite" alt="vite">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-4-38B2AC?style=flat-square&logo=tailwind-css" alt="Tailwind CSS">
+  </p>
 </p>
 
 
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)
-![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=flat-square&logo=vite)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-38B2AC?style=flat-square&logo=tailwind-css)
 
 ## Features
 
